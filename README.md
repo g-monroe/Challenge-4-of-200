@@ -6,4 +6,4 @@ Feel free to take and have fun with it - if used for commerical, please ask Mike
 
 Thanks!
 
-Try it out on CodePen or Here: [gavinmonroe.dev/shots/AIFormLogin/](https://gavinmonroe.dev/shots/AIFormLogin/)
+Try it out on CodePen or Here: [gavinmonroe.dev/shots/AILoginForm/](https://gavinmonroe.dev/shots/AILoginForm/)
